@@ -9,4 +9,9 @@
 
 常用邮箱xxx_yyy@xxx.com        
 
+## Git 单元作业 ##
+	找到一个公开的git项目托管服务（首选github，
+包括但不限于GitCafe，OSChina，CSDN等），注册你
+的账号，至少push了两个与本课程相关的项目，并在
+这里贴出你的项目链接。
 
